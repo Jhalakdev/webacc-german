@@ -146,8 +146,7 @@ export default function Footer({ customstyle }) {
           </a>
           <br />
           <a style={style} href="/contact">
-            666 888 0000
-          </a>
+8539923343          </a>
         </div>
         {/* <div className={footercss.links}>
                 <div>

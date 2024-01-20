@@ -22,9 +22,8 @@ export default function Hero() {
                 </div>
                 <div></div>
                 <div className={herocss.textBox}>
-                    <h3>Connect With us to connect the world</h3>
-                    <p>We are committed to providing our customers with exceptional service
-                        while offering our employees the best training.</p>
+                    <h3>VERBINDEN SIE SICH MIT UNS, UM DIE WELT ZU VERBINDEN</h3>
+                    <p>Wir sind bestrebt, unseren Kunden einen außergewöhnlichen Service zu bieten Gleichzeitig bieten wir unseren Mitarbeitern die beste Ausbildung.</p>
                     <button>Start Now</button>
                 </div>
                 

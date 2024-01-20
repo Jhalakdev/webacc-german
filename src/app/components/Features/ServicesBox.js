@@ -9,8 +9,8 @@ export default function ServicesBox() {
                 backgroundSize: '200% auto'
             },
             imagesrc: '/web-development.png',
-            name: 'Website Development',
-            desc: 'Website + Hosting + email @ Just Rs. 7200 Get Your Firm On The Web With a Beautiful Website And Feel The Power in Online, Attract new Customers Who Need You.',
+            name: 'Website-Entwicklung',
+            desc: '"Website + Hosting + Email @ Nur Rs. 7200. Bringen Sie Ihr Unternehmen ins Internet mit einer schönen Website und spüren Sie die Kraft online. Gewinnen Sie neue Kunden, die Sie brauchen.".',
         },
 
         {
@@ -20,8 +20,8 @@ export default function ServicesBox() {
                 backgroundSize: '200% auto',
             },
             imagesrc: '/graphic-designing.png',
-            name: 'Graphic Designing',
-            desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, q',
+            name: 'Video- und Grafikdesign',
+            desc: 'Video- und Grafikdesign: Kreative Gestaltung von visuellen Inhalten, darunter Grafiken, Logos und Videos, um Botschaften klar und ansprechend zu vermitteln."',
         },
         {
             id: 3,

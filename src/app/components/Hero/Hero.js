@@ -24,7 +24,7 @@ export default function Hero() {
                 <div className={herocss.textBox}>
                     <h3>VERBINDEN SIE SICH MIT UNS, UM DIE WELT ZU VERBINDEN</h3>
                     <p>Wir sind bestrebt, unseren Kunden einen außergewöhnlichen Service zu bieten Gleichzeitig bieten wir unseren Mitarbeitern die beste Ausbildung.</p>
-                    <button>Start Now</button>
+                    <button>Jetzt anfangen</button>
                 </div>
                 
             </div>
